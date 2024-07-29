@@ -7,8 +7,8 @@
 # Amortiguador masa resorte - 1 DOF
 Simulación y animación de un sistema amortiguador masa-resorte con 1 grado de libertad sometido a excitación de base.
 
-<img src="https://github.com/LuisMaldonado-py/LuisMaldonado-py.github.io/blob/30eedaf92bab2a3defebb6f3ff474f68d4d374f3/assets/img/sweep1.gif" alt="imagen1" width="350">
-<img src="https://github.com/LuisMaldonado-py/LuisMaldonado-py.github.io/blob/30eedaf92bab2a3defebb6f3ff474f68d4d374f3/assets/img/vl1.gif" alt="imagen1" width="350">
+<img src="https://github.com/LuisMaldonado-py/LuisMaldonado-py.github.io/blob/30eedaf92bab2a3defebb6f3ff474f68d4d374f3/assets/img/sweep1.gif" alt="imagen1" width="320">
+<img src="https://github.com/LuisMaldonado-py/LuisMaldonado-py.github.io/blob/30eedaf92bab2a3defebb6f3ff474f68d4d374f3/assets/img/vl1.gif" alt="imagen1" width="320">
 
 
 ## Contacto
